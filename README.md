@@ -1,6 +1,6 @@
-# `template-next-js`
+# Working with the app directory in Next.js 13 (LogRocket)
 
-Template for Next.js Apps
+https://blog.logrocket.com/next-js-13-app-directory/
 
 #
 
