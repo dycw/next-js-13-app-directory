@@ -1,0 +1,3 @@
+[submodule "nextjs-13"]
+	path = nextjs-13
+	url = https://github.com/kokanek/nextjs-13
