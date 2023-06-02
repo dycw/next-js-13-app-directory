@@ -1,3 +1,5 @@
-export default function Home() {
-  return <h1>Next.js template</h1>;
+import "@/styles/globals.css";
+
+export default function Page() {
+  return <h1>Hello, Next.js!</h1>;
 }
